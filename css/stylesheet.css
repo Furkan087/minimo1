@@ -1,0 +1,175 @@
+/*fonts*/
+/*
+font-famuly: 'playfair display', serif;
+font-family: 'ubuntu', sans-serif;
+*/
+
+/*common start*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: playfair Display, serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #626262;
+}
+/*common end*/
+
+/*header start*/
+header{
+	padding: 50px 0;
+}
+.wrapper{
+	overflow: hidden;
+	margin: 0 auto;
+	width: 90%;
+	
+}
+.logo{
+	width: 15%;
+	float: left;
+}
+.logo a{
+
+}
+.logo a img{
+
+}
+.menu{
+	width: 70%;
+	float: right;
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+.menu ul li a{
+	margin: 0px 15px;
+	padding: 3px 2px;
+	font-size: 15px;
+	color: #626262;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-bottom: 1px solid transparent;
+	display: inline-block;
+}
+.menu ul li:last-child a{
+	padding-right: 0;
+}
+.menu ul li a:hover{
+	border-bottom: 1px solid #626262;
+}
+/*header end*/
+/*banner start*/
+.b-img img{
+	width: 100%;
+}
+.b_2{
+	margin-top: 30px;
+	width: 98%;
+	border: 1px solid blue;
+}
+.wrapper2{
+	margin: 0 auto;
+	width: 80%;
+}
+h5{
+	color: #D9D6CE;
+}
+/*banner end*/
+/*lifestyle start*/
+.lf_1{
+	margin-top: 50px;
+}
+.wrapper3{
+	margin: 0 auto;
+	width: 80%;
+	overflow: hidden;
+}
+.lf_left{
+	width: 45%;
+	float: left;
+}
+.lf_left img{
+	width: 100%;
+}
+.lf_right{
+	width: 45%;
+	float: right;
+}
+.lf_right img{
+	width: 100%;
+}
+
+/*lifestyle end*/
+/*photodiary start*/
+.pd_1{
+    margin-top: 50px;
+	border: 1px solid red;
+}
+.wrapper4{
+	margin: 0 auto;
+	width: 80%;
+	overflow: hidden;
+}
+.pd_left{
+	width: 45%;
+	float: left;
+}
+.pd_left img{
+	width: 100%;
+}
+.pd_right{
+	width: 45%;
+	float: right;
+}
+.pd_right img{
+	width: 100%;
+}
+
+/*photodiary end*/
+/*lifestyle2 start*/
+.lf2_1{
+	margin-top: 50px;
+}
+.wrapper4{
+	margin: 0 auto;
+	width: 80%;
+	overflow: hidden;
+}
+.lf2_left{
+	width: 45%;
+	float: left;
+}
+.lf2_left img{
+	width: 100%;
+}
+.lf2_right{
+	width: 45%;
+	float: right;
+}
+.lf2_right img{
+	width: 100%;
+}
+
+/*lifestyle2 end*/
+/*button start*/
+.but{
+	width: 100%;
+	margin-top: 100px;
+	
+
+}
+.ldm{
+	width: 20%;
+	margin: 0 auto;
+}
+.ldm h2 a{
+	text-decoration: none;
+	color: #D9D6CE;
+}
+	
+/*button end*/
